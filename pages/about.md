@@ -21,7 +21,7 @@ Al Dervisevic and Ketchum selected clips and prepared them to be used in the phy
 
 We used CollectionBuilder-GH (a free and open source tool), using Markdown and Bootstrap to make the clips and transcripts more easily navigable. 
 
-Visit the website to access the audio clips and read the short transcripts: https://justfeministtechlab.github.io/Cafe-Queer-Montreal/browse.html
+Visit the website to access the audio clips and read the short transcripts: [https://justfeministtechlab.github.io/Cafe-Queer-Montreal/browse.html](https://justfeministtechlab.github.io/Cafe-Queer-Montreal/browse.html)
 
 
 
@@ -38,6 +38,6 @@ Al Dervisevic et Ketchum ont sélectionné des extraits et les ont préparés po
 
 Nous avons utilisé CollectionBuilder-GH (un outil gratuit et open source), en utilisant Markdown et Bootstrap pour faciliter la navigation dans les clips et les transcriptions. 
 
-Visitez le site Web pour accéder aux extraits audio et lire les transcriptions courtes : https://justfeministtechlab.github.io/Cafe-Queer-Montreal/browse.html
+Visitez le site Web pour accéder aux extraits audio et lire les transcriptions courtes : [https://justfeministtechlab.github.io/Cafe-Queer-Montreal/browse.html](https://justfeministtechlab.github.io/Cafe-Queer-Montreal/browse.html)
 
 Vous pouvez accéder aux 28 transcriptions et fichiers audio dans leur intégralité aux Archives lesbiennes du Québec et/ou aux Archives gaies du Québec. Ces deux archives possèdent des copies des histoires orales, car ce projet a été réalisé en collaboration avec elles.
