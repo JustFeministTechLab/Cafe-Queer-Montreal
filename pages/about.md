@@ -15,7 +15,7 @@ credits: true
 
 From 2022-2024, Dr. Alex Ketchum and her research team, including  Eléa Regembal, Laine McCrory, Jesssana Akehurst, Talia Pirsch, Lifan Cheng, Alex Strong-Saad, Raymond Johnson Brown,  and Haley Clarke-Cousineau, conducted interviews with 28 Montreal-based lesbians, bisexual women, queer women, non-binary people, and two-spirit folks. Many of the interviews focused on how these people created LGBTQ+ spaces in Montreal. Most interviews lasted between 60 and 90 minutes.
 
-Below are short clips from Montreal's Lesbian, Bisexual, Non-binary, and Two Spirit Oral History Project that discuss food and drink spaces and events. 
+Below are short clips from Montreal's Lesbian, Bisexual, Non-binary, and Two Spirit Oral History Project that discuss food and drink spaces and events. Half are in English and half are in French.
 
 Al Dervisevic and Ketchum selected clips and prepared them to be used in the physical exhibition. This audio, with transcripts, will be available to listen to on 2 iPads within the physical exhibition. For more about the A Taste of Queer Montreal Exhibition and the Cafe Queer Montreal project, visit: [https://www.cafequeermontreal.com](https://www.cafequeermontreal.com)
 
@@ -32,7 +32,7 @@ ___
 
 De 2022 à 2024, le Dr Alex Ketchum et son équipe de recherche, composée d'Eléa Regembal, Laine McCrory, Jesssana Akehurst, Talia Pirsch, Lifan Cheng, Alex Strong-Saad, Raymond Johnson Brown et Haley Clarke-Cousineau, ont mené des entretiens avec 28 personnes lesbiennes, bisexuelles, queer, non binaires et bispirituelles vivant à Montréal. La plupart des entretiens ont porté sur la manière dont ces personnes ont créé des espaces LGBTQ+ à Montréal. La plupart des entretiens ont duré entre 60 et 90 minutes.
 
-Vous trouverez ci-dessous de courts extraits du projet d'histoire orale sur les lesbiennes, les bisexuelles, les personnes non binaires et les personnes bispirituelles de Montréal, qui traitent des lieux et des événements liés à la nourriture et aux boissons. 
+Vous trouverez ci-dessous de courts extraits du projet d'histoire orale sur les lesbiennes, les bisexuelles, les personnes non binaires et les personnes bispirituelles de Montréal, qui traitent des lieux et des événements liés à la nourriture et aux boissons. La moitié des entretiens sont en anglais et l'autre moitié en français.
 
 Al Dervisevic et Ketchum ont sélectionné des extraits et les ont préparés pour être utilisés dans l'exposition physique. Cet enregistrement audio, accompagné de transcriptions, pourra être écouté sur deux iPad dans le cadre de l'exposition physique. Pour en savoir plus sur l'exposition « A Taste of Queer Montreal » et le projet « Cafe Queer Montreal », rendez-vous sur : [https://www.cafequeermontreal.com](https://www.cafequeermontreal.com)
 
