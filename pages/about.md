@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/nav-menu.html sections="About (English); À Propos (Français)" %}
 
-## About the Collection
+## About the Collection (English)
 (français suivant)
 
 From 2022-2024, Dr. Alex Ketchum and her research team, including  Eléa Regembal, Laine McCrory, Jesssana Akehurst, Talia Pirsch, Lifan Cheng, Alex Strong-Saad, Raymond Johnson Brown,  and Haley Clarke-Cousineau, conducted interviews with 28 Montreal-based lesbians, bisexual women, queer women, non-binary people, and two-spirit folks. Many of the interviews focused on how these people created LGBTQ+ spaces in Montreal. Most interviews lasted between 60 and 90 minutes.
@@ -28,6 +28,7 @@ Visit the website to access the audio clips and read the short transcripts: http
 You can access the full length 28 transcripts and audio files at the Archives lesbiennes du Québec and/or the Archives gaies du Québec. Both archives have copies of the oral histories as this project was done in collaboration with both archives. 
 
 ___
+## À Propos (Français)
 
 De 2022 à 2024, le Dr Alex Ketchum et son équipe de recherche, composée d'Eléa Regembal, Laine McCrory, Jesssana Akehurst, Talia Pirsch, Lifan Cheng, Alex Strong-Saad, Raymond Johnson Brown et Haley Clarke-Cousineau, ont mené des entretiens avec 28 personnes lesbiennes, bisexuelles, queer, non binaires et bispirituelles vivant à Montréal. La plupart des entretiens ont porté sur la manière dont ces personnes ont créé des espaces LGBTQ+ à Montréal. La plupart des entretiens ont duré entre 60 et 90 minutes.
 
