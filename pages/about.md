@@ -14,14 +14,26 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+(français suivant)
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+From 2022-2024, Dr. Alex Ketchum and her research team, including  Eléa Regembal, Laine McCrory, Jesssana Akehurst, Talia Pirsch, Lifan Cheng, Alex Strong-Saad, Raymond Johnson Brown,  and Haley Clarke-Cousineau, conducted interviews with 28 Montreal-based lesbians, bisexual women, queer women, non-binary people, and two-spirit folks. Many of the interviews focused on how these people created LGBTQ+ spaces in Montreal. Most interviews lasted between 60 and 90 minutes.
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+Below are short clips from Montreal's Lesbian, Bisexual, Non-binary, and Two Spirit Oral History Project that discuss food and drink spaces and events. 
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+Al Dervisevic and Ketchum selected clips and prepared them to be used in the physical exhibition. This audio, with transcripts, could be listened to on 2 iPads within the physical exhibition. 
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+We used CollectionBuilder-GH (a free and open source tool), using Markdown and Bootstrap to make the clips and transcripts more easily navigable. 
+
+You can access the full length 28 transcripts and audio files at the Archives lesbiennes du Québec and/or the Archives gaies du Québec. Both archives have copies of the oral histories as this project was done in collaboration with both archives. 
+
+___
+
+De 2022 à 2024, le Dr Alex Ketchum et son équipe de recherche, composée d'Eléa Regembal, Laine McCrory, Jesssana Akehurst, Talia Pirsch, Lifan Cheng, Alex Strong-Saad, Raymond Johnson Brown et Haley Clarke-Cousineau, ont mené des entretiens avec 28 personnes lesbiennes, bisexuelles, queer, non binaires et bispirituelles vivant à Montréal. La plupart des entretiens ont porté sur la manière dont ces personnes ont créé des espaces LGBTQ+ à Montréal. La plupart des entretiens ont duré entre 60 et 90 minutes.
+
+Vous trouverez ci-dessous de courts extraits du projet d'histoire orale sur les lesbiennes, les bisexuelles, les personnes non binaires et les personnes bispirituelles de Montréal, qui traitent des lieux et des événements liés à la nourriture et aux boissons. 
+
+Al Dervisevic et Ketchum ont sélectionné des extraits et les ont préparés pour qu'ils puissent être utilisés dans l'exposition physique. Cet enregistrement audio, accompagné de transcriptions, pouvait être écouté sur deux iPad dans le cadre de l'exposition.
+
+Nous avons utilisé CollectionBuilder-GH (un outil gratuit et open source), en utilisant Markdown et Bootstrap pour faciliter la navigation dans les clips et les transcriptions.
+
+Vous pouvez accéder aux 28 transcriptions et fichiers audio dans leur intégralité aux Archives lesbiennes du Québec et/ou aux Archives gaies du Québec. Ces deux archives possèdent des copies des histoires orales, car ce projet a été réalisé en collaboration avec elles.
